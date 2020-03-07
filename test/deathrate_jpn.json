@@ -1,0 +1,14 @@
+[
+{ "country": "韓国",  "cases": "6593",  "deaths": "43",  "death_rate": "0.0065"}, 
+{ "country": "イラン",  "cases": "4747",  "deaths": "124",  "death_rate": "0.0261"}, 
+{ "country": "イタリア",  "cases": "3927",  "deaths": "148",  "death_rate": "0.0377"}, 
+{ "country": "Diamond Princess",  "cases": "696",  "deaths": "6",  "death_rate": "0.0086"}, 
+{ "country": "フランス",  "cases": "577",  "deaths": "7",  "death_rate": "0.0121"}, 
+{ "country": "ドイツ",  "cases": "565",  "deaths": "0",  "death_rate": "0"}, 
+{ "country": "日本",  "cases": "416",  "deaths": "6",  "death_rate": "0.0144"}, 
+{ "country": "スペイン",  "cases": "345",  "deaths": "5",  "death_rate": "0.0145"}, 
+{ "country": "アメリカ",  "cases": "234",  "deaths": "14",  "death_rate": "0.0598"}, 
+{ "country": "シンガポール",  "cases": "130",  "deaths": "0",  "death_rate": "0"}, 
+{ "country": "スイス",  "cases": "128",  "deaths": "1",  "death_rate": "0.0078"}, 
+{ "country": "イギリス",  "cases": "116",  "deaths": "2",  "death_rate": "0.0172"}
+]
