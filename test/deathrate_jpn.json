@@ -4,7 +4,7 @@
 { "country": "イラン",  "cases": "5823",  "death": "145",  "death_rate": "0.0249"}, 
 { "country": "Diamond Princess",  "cases": "696",  "death": "7",  "death_rate": "0.0101"}, 
 { "country": "フランス",  "cases": "949",  "death": "16",  "death_rate": "0.0169"}, 
-{ "country": "ドイツ",  "cases": "795",  "death": "0",  "death_rate": "0"}, 
+{ "country": "ドイツ",  "cases": "847",  "death": "0",  "death_rate": "0"}, 
 { "country": "日本",  "cases": "463",  "death": "7",  "death_rate": "0.0151"}, 
 { "country": "スペイン",  "cases": "516",  "death": "10",  "death_rate": "0.0194"}, 
 { "country": "アメリカ",  "cases": "455",  "death": "19",  "death_rate": "0.0418"}, 
