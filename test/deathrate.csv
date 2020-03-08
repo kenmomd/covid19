@@ -1,14 +1,18 @@
 ﻿country,cases,death,death_rate
-Korea,7134,50,0.007
+Korea,7317,50,0.0068
 Italy,6012,233,0.0388
-Iran,5823,145,0.0249
+Iran,6566,194,0.0295
 Diamond Princess,696,7,0.0101
 France,949,16,0.0169
-Germany,847,0,0
-Japan,463,7,0.0151
-Spain,516,10,0.0194
+Germany,847,0,0.0000
+Japan,494,7,0.0142
+Spain,613,17,0.0277
 United States,455,19,0.0418
-Singapore,138,0,0
-Switzerland,228,1,0.0044
-United Kingdom,206,2,0.0097
-Netherlands,188,1,0.0053
+Singapore,150,0,0.0000
+Switzerland,281,2,0.0071
+United Kingdom,273,2,0.0073
+Netherlands,265,3,0.0113
+Sweden,203,0,0.0000
+Belgium,200,0,0.0000
+Norway,157,0,0.0000
+Austria,104,0,0.0000
