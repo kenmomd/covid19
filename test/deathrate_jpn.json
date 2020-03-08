@@ -1,5 +1,5 @@
 [
-{ "country": "韓国",  "cases": "7134",  "death": "50",  "death_rate": "0.0070"}, 
+{ "country": "韓国",  "cases": "7134",  "death": "50",  "death_rate": "0.007"}, 
 { "country": "イタリア",  "cases": "6012",  "death": "233",  "death_rate": "0.0388"}, 
 { "country": "イラン",  "cases": "5823",  "death": "145",  "death_rate": "0.0249"}, 
 { "country": "Diamond Princess",  "cases": "696",  "death": "7",  "death_rate": "0.0101"}, 
