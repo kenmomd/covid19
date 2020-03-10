@@ -1,104 +1,19 @@
 [
-  {
-    "country": "韓国",
-    "cases": 7317,
-    "death": 50,
-    "death_rate": 0.0068
-  },
-  {
-    "country": "イラン",
-    "cases": 6566,
-    "death": 194,
-    "death_rate": 0.0295
-  },
-  {
-    "country": "イタリア",
-    "cases": 6012,
-    "death": 233,
-    "death_rate": 0.0388
-  },
-  {
-    "country": "フランス",
-    "cases": 949,
-    "death": 16,
-    "death_rate": 0.0169
-  },
-  {
-    "country": "ドイツ",
-    "cases": 847,
-    "death": 0,
-    "death_rate": 0
-  },
-  {
-    "country": "Diamond Princess",
-    "cases": 696,
-    "death": 7,
-    "death_rate": 0.0101
-  },
-  {
-    "country": "スペイン",
-    "cases": 613,
-    "death": 17,
-    "death_rate": 0.0277
-  },
-  {
-    "country": "日本",
-    "cases": 494,
-    "death": 7,
-    "death_rate": 0.0142
-  },
-  {
-    "country": "アメリカ",
-    "cases": 455,
-    "death": 19,
-    "death_rate": 0.0418
-  },
-  {
-    "country": "スイス",
-    "cases": 281,
-    "death": 2,
-    "death_rate": 0.0071
-  },
-  {
-    "country": "イギリス",
-    "cases": 273,
-    "death": 2,
-    "death_rate": 0.0073
-  },
-  {
-    "country": "オランダ",
-    "cases": 265,
-    "death": 3,
-    "death_rate": 0.0113
-  },
-  {
-    "country": "スウェーデン",
-    "cases": 203,
-    "death": 0,
-    "death_rate": 0
-  },
-  {
-    "country": "ベルギー",
-    "cases": 200,
-    "death": 0,
-    "death_rate": 0
-  },
-  {
-    "country": "シンガポール",
-    "cases": 150,
-    "death": 0,
-    "death_rate": 0
-  },
-  {
-    "country": "ノルウェー",
-    "cases": 157,
-    "death": 0,
-    "death_rate": 0
-  },
-  {
-    "country": "オーストリア",
-    "cases": 104,
-    "death": 0,
-    "death_rate": 0
-  }
+{ "country": "イタリア",  "cases": "9220",  "death": "463",  "death_rate": "0.0502"}, 
+{ "country": "韓国",  "cases": "7513",  "death": "58",  "death_rate": "0.0077"}, 
+{ "country": "イラン",  "cases": "7161",  "death": "237",  "death_rate": "0.0331"}, 
+{ "country": "フランス",  "cases": "1427",  "death": "20",  "death_rate": "0.014"}, 
+{ "country": "スペイン",  "cases": "1231",  "death": "32",  "death_rate": "0.026"}, 
+{ "country": "ドイツ",  "cases": "1224",  "death": "2",  "death_rate": "0.0016"}, 
+{ "country": "アメリカ",  "cases": "755",  "death": "26",  "death_rate": "0.0344"}, 
+{ "country": "Diamond Princess",  "cases": "696",  "death": "7",  "death_rate": "0.0101"}, 
+{ "country": "日本",  "cases": "534",  "death": "10",  "death_rate": "0.0187"}, 
+{ "country": "スイス",  "cases": "374",  "death": "2",  "death_rate": "0.0053"}, 
+{ "country": "イギリス",  "cases": "321",  "death": "5",  "death_rate": "0.0156"}, 
+{ "country": "オランダ",  "cases": "321",  "death": "3",  "death_rate": "0.0093"}, 
+{ "country": "スウェーデン",  "cases": "261",  "death": "0",  "death_rate": "0"}, 
+{ "country": "ノルウェー",  "cases": "227",  "death": "0"}, 
+{ "country": "ベルギー",  "cases": "239",  "death": "0"}, 
+{ "country": "シンガポール",  "cases": "160",  "death": "0"}, 
+{ "country": "オーストリア",  "cases": "131",  "death": "0"}
 ]

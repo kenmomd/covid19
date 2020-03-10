@@ -1,18 +1,18 @@
-"country","cases","death","death_rate"
-"Korea","7317","50","0.0068"
-"Iran","6566","194","0.0295"
-"Italy","6012","233","0.0388"
-"France","949","16","0.0169"
-"Germany","847","0","0"
-"Diamond Princess","696","7","0.0101"
-"Spain","613","17","0.0277"
-"Japan","494","7","0.0142"
-"United States","455","19","0.0418"
-"Switzerland","281","2","0.0071"
-"United Kingdom","273","2","0.0073"
-"Netherlands","265","3","0.0113"
-"Sweden","203","0","0"
-"Belgium","200","0","0"
-"Singapore","150","0","0"
-"Norway","157","0","0"
-"Austria","104","0","0"
+country,cases,death,death_rate
+Italy,9220,463,0.0502
+Korea,7513,58,0.0077
+Iran,7161,237,0.0331
+France,1427,20,0.014
+Spain,1231,32,0.026
+Germany,1224,2,0.0016
+United States,755,26,0.0344
+Diamond Princess,696,7,0.0101
+Japan,534,10,0.0187
+Switzerland,374,2,0.0053
+United Kingdom,321,5,0.0156
+Netherlands,321,3,0.0093
+Sweden,261,0,0
+Norway,227,0
+Belgium,239,0
+Singapore,160,0
+Austria,131,0
