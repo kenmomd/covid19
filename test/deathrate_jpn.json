@@ -12,8 +12,8 @@
 { "country": "イギリス",  "cases": "321",  "death": "5",  "death_rate": "0.0156"}, 
 { "country": "オランダ",  "cases": "321",  "death": "3",  "death_rate": "0.0093"}, 
 { "country": "スウェーデン",  "cases": "261",  "death": "0",  "death_rate": "0"}, 
-{ "country": "ノルウェー",  "cases": "227",  "death": "0"  "death_rate": "0"}, 
-{ "country": "ベルギー",  "cases": "239",  "death": "0"  "death_rate": "0"}, 
-{ "country": "シンガポール",  "cases": "160",  "death": "0"  "death_rate": "0"}, 
-{ "country": "オーストリア",  "cases": "131",  "death": "0"  "death_rate": "0"}
+{ "country": "ノルウェー",  "cases": "227",  "death": "0",  "death_rate": "0"}, 
+{ "country": "ベルギー",  "cases": "239",  "death": "0",  "death_rate": "0"}, 
+{ "country": "シンガポール",  "cases": "160",  "death": "0",  "death_rate": "0"}, 
+{ "country": "オーストリア",  "cases": "131",  "death": "0",  "death_rate": "0"}
 ]
